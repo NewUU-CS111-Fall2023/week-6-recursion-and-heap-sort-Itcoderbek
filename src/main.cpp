@@ -73,7 +73,7 @@ int main() {
     std::cout << std::endl;
      // Task 10
     std::cout << "\nTask 10:" << std::endl;
-    std::cout << "Permuted String: " << Task8::permuteString("aBcDeFGhi") << std::endl;
+    std::cout << "Permuted String: " << Task10::permuteString("aBcDeFGhi") << std::endl;
 
 
     return 0;

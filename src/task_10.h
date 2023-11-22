@@ -3,7 +3,7 @@
 
 #include <string>
 
-class Task8 {
+class Task10 {
 public:
     static std::string permuteString(const std::string& s);
 };

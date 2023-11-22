@@ -6,7 +6,7 @@ bool isVowel(char c) {
             c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U');
 }
 
-std::string Task8::permuteString(const std::string& s) {
+std::string Task10::permuteString(const std::string& s) {
     std::string vowels;
 
     // Separate vowels and sort them
